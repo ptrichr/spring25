@@ -17,4 +17,4 @@ The number display was not working in-game (for some unknown reason), so I just 
 
 I did verify that my program works. I have included a video, which you can find here:
 
-<video src="https://petrichor.s-ul.eu/NigUPfZI" width="320" height="240" controls></video>
+https://github.com/ptrichr/spring25/projectfinal/assets/submission.mp4
